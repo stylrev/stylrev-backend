@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "supabase": "^1.187.3"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.44.4",
+    "luxon": "^3.5.0",
+    "stripe": "^16.4.0"
+  }
+}
