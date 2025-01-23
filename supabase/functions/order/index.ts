@@ -205,6 +205,7 @@ Deno.serve(async (req) => {
         },
     ],
     mode: recurringConfig ? 'subscription' : 'payment',
+    allow_promotion_codes: true
   });
 
   console.log("sessionResponse", sessionResponse);
