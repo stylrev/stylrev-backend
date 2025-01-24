@@ -106,6 +106,7 @@ npx supabase functions list
 
 You should see a table output similar to the following:
 
+```
                      ID                  │        NAME         │        SLUG         │ STATUS │ VERSION │  UPDATED AT (UTC)
   ───────────────────────────────────────┼─────────────────────┼─────────────────────┼────────┼─────────┼──────────────────────
     dcaa58b7-4c91-4c33-b996-d3a621c9df93 │ order               │ order               │ ACTIVE │      68 │ 2024-10-10 07:42:39
